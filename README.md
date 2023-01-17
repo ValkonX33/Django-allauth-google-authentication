@@ -8,10 +8,11 @@ django-allauth is an integrated set of Django applications dealing with account 
 more about djnago-allauth [djnago-allauth](https://django-allauth.readthedocs.io/en/latest/installation.html)
 
 views:
-![image](https://user-images.githubusercontent.com/77388132/212974939-3d37157a-3e6e-460d-a339-bced1714d3f8.png)
-![image](https://user-images.githubusercontent.com/77388132/212975049-073fe6c2-2f2d-4e7f-a797-a49b62c6a94c.png)
+![image](https://user-images.githubusercontent.com/77388132/212976304-5bc8bb89-a789-4539-91fb-a0aff655d673.png)
+
+![image](https://user-images.githubusercontent.com/77388132/212976372-de1cf83f-34be-4830-b57a-7770fe12e9ca.png)
 
 Not to mention that i inserted a form into the navbar (It was the part of the task that i was completing)
-![image](https://user-images.githubusercontent.com/77388132/212975082-e637aa12-bc06-49dc-9e86-54b5bfef0a16.png)
+![image](https://user-images.githubusercontent.com/77388132/212976451-46183f6f-8991-4185-b906-6070dcb346dd.png)
 
 Django-allauth-google-authentication has many functionalites and has lot of potential, it works exceptional with Django built in features
