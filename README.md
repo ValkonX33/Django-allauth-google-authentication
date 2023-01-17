@@ -1,0 +1,1 @@
+# Django-allauth-google-authentication
